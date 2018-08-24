@@ -1,5 +1,5 @@
-; Example 1:
-; Writes "Hello World" to the textual display
+; Example 1.1:
+; Writes "Hello World!" to the text display
 
 	JMP boot
 

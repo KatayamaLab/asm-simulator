@@ -1,4 +1,4 @@
-; Example 2:
+; Example 1.2:
 ; Prints a 16x16 sprite into the visual display
 
 	JMP boot

@@ -1,4 +1,4 @@
-; Example 6:
+; Example 5:
 ; The example defines two tasks:
 ; - A low-priority idle tasks that writes on the
 ;   visual display in a loop
